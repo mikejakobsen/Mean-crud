@@ -1,0 +1,18 @@
+{
+  "name": "crud",
+  "version": "0.0.1",
+  "description": "Crud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/mikejakobsen/mongocrud"
+  },
+  "author": "Mike Jakobsen",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.10"
+  }
+}
